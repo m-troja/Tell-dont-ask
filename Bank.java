@@ -1,5 +1,3 @@
-package com.itbulls.learnit.javacore.oop.telldontask;
-
 import java.math.BigDecimal;
 
 public class Bank {
